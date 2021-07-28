@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+span{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    line-height: 50%; 
+    color:rgb(100, 94, 94);
+}
+section{
+    display: flex;
+}
+.half{
+    width:40%;
+    padding: 2%;
+    
+}
+p{
+    color: gray;
+    margin-bottom: 50px;
+    font-size: 20px;
+    width: 50%;
+}
+.half img{
+    width: 80%;
+}
+.order-button{
+    text-decoration: none;
+    background: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
+.banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.person-image{
+    height: 80%;
+    margin: 200px 90px 0px;
+    width: 50%;
+
+}
+.about-recipies{
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+
+}
